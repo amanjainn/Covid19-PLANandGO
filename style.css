@@ -5,7 +5,11 @@
 .text-light{
     color: #171e2f;
 }
+.bg-footer{
+    background-color: #ffc696 !important;
+    color: white;
+}
 
-/* .y-img{
-    width: fit-content !important;
-} */
+.obj-v{
+    border: 3px solid black;
+}
