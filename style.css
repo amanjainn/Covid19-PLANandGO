@@ -1,3 +1,7 @@
-.nav-color{
+.body-color{
     background-color: #ffc696 !important; 
+}
+
+.text-light{
+    color: #171e2f;
 }
