@@ -11,5 +11,10 @@
 }
 
 .obj-v{
-    border: 3px solid black;
+    border: 3px solid #ffc696;
+}
+
+
+.body-ban{
+    width: 1000px;
 }
